@@ -1,5 +1,7 @@
 # Checkpoint Next JS — Portfolio
 
+🔗 **Site en ligne (Vercel) : https://next-js-portfolio-checkpoint-tjdn.vercel.app**
+
 Site portfolio construit avec **Next.js** (Pages Router).
 
 - **Pages (routage par fichiers)** : `/` (accueil), `/about`, `/projects`, `/contact` dans `pages/`.
