@@ -1,0 +1,8 @@
+.ssr { color: #64748b; font-size: .9rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; }
+.card { background: #1e293b; border-radius: 16px; overflow: hidden; }
+.image { width: 100%; height: auto; display: block; }
+.body { padding: 1.2rem; }
+.body h2 { margin: 0 0 .4rem; font-size: 1.3rem; }
+.stack { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0; }
+.stack li { font-size: .8rem; background: #0f172a; padding: .2rem .6rem; border-radius: 999px; }
